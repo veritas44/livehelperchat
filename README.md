@@ -4,7 +4,7 @@ Live helper chat
 It's an open-source powered application, which brings simplicity and usability in one place. With live helper chat you can bring live support on your site for free. http://livehelperchat.com
 
 ## Demo
-http://livehelperchat.com/demo-12c.html
+https://family.apkhr.xyz/
 
 ## Documentation
 http://livehelperchat.com/documentation-6c.html
